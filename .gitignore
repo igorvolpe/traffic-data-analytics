@@ -1,0 +1,13 @@
+# Pastas de cache do Python e Jupyter Notebook
+__pycache__/
+.ipynb_checkpoints/
+
+# Ambientes virtuais do Python
+.venv/
+venv/
+env/
+
+# Ficheiros de sistema do Windows e VS Code
+.vscode/
+Thumbs.db
+Desktop.ini
